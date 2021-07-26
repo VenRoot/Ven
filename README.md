@@ -6,7 +6,7 @@
 Welcome to my profile :)
 
 
-I'm a standalone TypeScript/NodeJS developer, trying my best to lean and contribute to the Open Source Community!
+I'm a standalone TypeScript/NodeJS developer, trying my best to learn and contribute to the Open Source Community!
 
 ♥️GNU♥️
 ♥️Free Software♥️
